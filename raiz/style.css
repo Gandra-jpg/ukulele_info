@@ -1,0 +1,37 @@
+body {
+	background: #f7eee1;
+	margin: 30px;
+	border: 20px solid #f2ddc2;
+	box-sizing: border-box ;
+}
+
+h1 {
+	text-align: center; background: #f7eee1
+}
+
+#ukulele {
+	display: block;
+	margin: 0 auto;
+	max-width: 80%;
+}
+
+p {
+	text-align: center;
+	font-size: 18px;
+}
+
+#ukulele3 {
+	display: block;
+	margin: 0 auto;
+	max-width: 80%;
+}
+
+#ukulele2 {
+	display: block;
+	margin: 0 auto;
+	max-width: 80%;
+}
+
+strong {
+	color: #990500;
+}
